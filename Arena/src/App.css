@@ -28,3 +28,8 @@ section {
 span {
   color: #DB1714;
 }
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
